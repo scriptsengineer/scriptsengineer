@@ -5,7 +5,6 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/scriptsengineer?style=flat-square&logo=github)
 ![GitHub followers](https://img.shields.io/github/followers/scriptsengineer?style=flat-square&logo=github)
 [![Expresso Bits](https://img.shields.io/badge/Expresso_Bits-red?&style=flat-square&logo=web)](https://expressobits.com.br)
-![GitHub language count](https://img.shields.io/github/languages/count/scriptsengineer/openknife?style=flat-square)
 
 Hello I'm ❤️ about game development!
 
