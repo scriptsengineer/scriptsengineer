@@ -4,7 +4,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/scriptsengineer?style=flat-square&logo=twitter)
 ![GitHub User's stars](https://img.shields.io/github/stars/scriptsengineer?style=flat-square&logo=github)
 ![GitHub followers](https://img.shields.io/github/followers/scriptsengineer?style=flat-square&logo=github)
-![Expresso Bits](https://img.shields.io/badge/Expresso_Bits-red?link=expressobits.com.br&style=flat-square&logo=web)
+[![Expresso Bits](https://img.shields.io/badge/Expresso_Bits-red?&style=flat-square&logo=web)](https://expressobits.com.br)
 
 Hello I'm ❤️ about game development!
 
