@@ -2,9 +2,11 @@
 
 Hello I'm ❤️ about game development! unity expert.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/scriptsengineer?style=flat-square)
-![GitHub User's stars](https://img.shields.io/github/stars/scriptsengineer?style=flat-square)
-![Expresso Bits](https://img.shields.io/badge/Expresso-Bits-red?link=expressobits.com.br&style=flat-square)
+![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&link=www.linkedin.com/in/rafael-morais-correa-b1ab7a81/)
+![Twitter Follow](https://img.shields.io/twitter/follow/scriptsengineer?style=flat-square&logo=twitter)
+
+![GitHub User's stars](https://img.shields.io/github/stars/scriptsengineer?style=flat-square&logo=github)
+![Expresso Bits](https://img.shields.io/badge/Expresso-Bits-red?link=expressobits.com.br&style=flat-square&logo=web)
 
 <!--
 **ScriptsEngineer/ScriptsEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
