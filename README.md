@@ -2,7 +2,9 @@
 
 Hello I'm ❤️ about game development! unity expert.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/scriptsengineer)
+![Twitter Follow](https://img.shields.io/twitter/follow/scriptsengineer?style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/scriptsengineer?style=flat-square)
+![Expresso Bits](https://img.shields.io/badge/Expresso-Bits-red?link=expressobits.com.br&style=flat-square)
 
 <!--
 **ScriptsEngineer/ScriptsEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
