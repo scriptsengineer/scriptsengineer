@@ -6,8 +6,11 @@ Hello I'm ❤️ about game development! unity expert.
 ![AssetStore](https://img.shields.io/badge/Unity_Asset_Store-black?style=flat-square&logo=unity&link=assetstore.unity.com/publishers/39910)
 ![Twitter Follow](https://img.shields.io/twitter/follow/scriptsengineer?style=flat-square&logo=twitter)
 ![GitHub User's stars](https://img.shields.io/github/stars/scriptsengineer?style=flat-square&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/scriptsengineer?style=flat-square&logo=github)
 ![Expresso Bits](https://img.shields.io/badge/Expresso_Bits-red?link=expressobits.com.br&style=flat-square&logo=web)
 
+- ⚡ Unity Expert
+- ⚡ C# Coder
 
 <!--
 **ScriptsEngineer/ScriptsEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
