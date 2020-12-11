@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+Hello I'm ❤️ about game development! unity expert.
+
+[![Expresso Bits](https://img.shields.io/twitter/url?&?style=flat&logo=gamelabel=Site&labelColor=499c75&color=499c75&style=for-the-badge&url=expressobits.com.br)](https://expressobits.com.br/)
+
 <!--
 **ScriptsEngineer/ScriptsEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
