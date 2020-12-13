@@ -6,17 +6,19 @@
 ![GitHub followers](https://img.shields.io/github/followers/scriptsengineer?style=flat-square&logo=github)
 [![Expresso Bits](https://img.shields.io/badge/Expresso_Bits-red?&style=flat-square&logo=web)](https://expressobits.com.br)
 
-Hello I'm ❤️ about game development!
+I'm ❤️ game development!
 
 - ⚡ Unity Expert
-- ⚡ C# Coder
+- 👨‍💻 C# Coder
+- 🔭 I’m currently working on new multiplayer game to steam!
+- 🌱 I’m currently learning Facepunch.Steamworks
 
 <!--
 **ScriptsEngineer/ScriptsEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
