@@ -1,10 +1,10 @@
 ### Hi there 👋
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rafael-morais-correa-b1ab7a81/)
-[![AssetStore](https://img.shields.io/badge/Unity_Asset_Store-black?style=flat-square&logo=unity)](https://assetstore.unity.com/publishers/39910)
-![Twitter Follow](https://img.shields.io/twitter/follow/scriptsengineer?style=flat-square&logo=twitter)
-![GitHub User's stars](https://img.shields.io/github/stars/scriptsengineer?style=flat-square&logo=github)
-![GitHub followers](https://img.shields.io/github/followers/scriptsengineer?style=flat-square&logo=github)
-[![Expresso Bits](https://img.shields.io/badge/Expresso_Bits-red?&style=flat-square&logo=web)](https://expressobits.com.br)
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rafael-morais-correa-b1ab7a81/)
+[![AssetStore](https://img.shields.io/badge/Unity_Asset_Store-black?style=flat&logo=unity)](https://assetstore.unity.com/publishers/39910)
+![Twitter Follow](https://img.shields.io/twitter/follow/scriptsengineer?style=flat&logo=twitter)
+![GitHub User's stars](https://img.shields.io/github/stars/scriptsengineer?style=flat&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/scriptsengineer?style=flat&logo=github)
+[![Expresso Bits](https://img.shields.io/badge/Expresso_Bits-red?&style=flat&logo=web)](https://expressobits.com.br)
 
 I'm ❤️ game development!
 
