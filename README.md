@@ -24,9 +24,9 @@ I'm ❤️ game development!
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat&logo=css3&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
-![Scriptsengineer's github stats](https://github-readme-stats.vercel.app/api?username=scriptsengineer&show_icons=true&theme=radical)
+![Scriptsengineer's github stats](https://github-readme-stats.vercel.app/api?username=scriptsengineer&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scriptsengineer&layout=compact&theme=radical)](https://github.com/scriptsengineer/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expressobits&layout=compact&theme=radical)](https://github.com/expressobits/github-readme-stats)
 
 
 <!--
