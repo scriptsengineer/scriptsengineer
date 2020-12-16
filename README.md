@@ -5,6 +5,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/scriptsengineer?style=flat&logo=github)
 ![GitHub followers](https://img.shields.io/github/followers/scriptsengineer?style=flat&logo=github)
 [![Expresso Bits](https://img.shields.io/badge/Expresso_Bits-red?&style=flat&logo=web)](https://expressobits.com.br)
+![Discord](https://img.shields.io/discord/533410361328664616?label=Expresso%20Bits&logo=discord&logoColor=ffffff)
 
 I'm ❤️ game development!
 
