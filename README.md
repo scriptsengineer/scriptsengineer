@@ -9,7 +9,7 @@
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-<img align="right" alt="Engineer" width=256 height=256 src="https://gifimage.net/wp-content/uploads/2018/06/tf2-engineer-gif-6.gif">
+<img align="right" alt="Engineer" width=250 height=200 src="https://gifimage.net/wp-content/uploads/2018/06/tf2-engineer-gif-6.gif">
 I'm ❤️ game development!
 
 - ⚡ Unity Expert
