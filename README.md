@@ -15,7 +15,7 @@ I'm ❤️ game development!
 - ⚡ Unity Expert
 - 👨‍💻 C# Coder
 - 🔭 I’m currently working on new multiplayer game to steam!
-- 🌱 I’m currently learning @Facepunch.Steamworks
+- 🌱 I’m currently learning Cinemachine
 
 #### Techs
 ![Unity](https://img.shields.io/badge/-Unity-020202?style=flat&logo=unity&logoColor=white)
