@@ -33,6 +33,8 @@ I'm ❤️ game development!
 
 ![Scriptsengineer's github stats](https://github-readme-stats.vercel.app/api?username=scriptsengineer&show_icons=true&theme=dark)
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expressobits&layout=compact&theme=radical)](https://github.com/expressobits/github-readme-stats)
 
 
