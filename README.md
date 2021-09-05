@@ -25,6 +25,8 @@ I'm ❤️ game development!
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat&logo=css3&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 #### Languages
 
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-Sharp&logoColor=white)
@@ -33,7 +35,7 @@ I'm ❤️ game development!
 
 ![Scriptsengineer's github stats](https://github-readme-stats.vercel.app/api?username=scriptsengineer&show_icons=true&theme=dark)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expressobits&layout=compact&theme=radical)](https://github.com/expressobits/github-readme-stats)
 
