@@ -7,6 +7,8 @@
 [![Expresso Bits](https://img.shields.io/badge/Expresso_Bits-red?&style=flat&logo=web)](https://expressobits.com.br)
 ![Discord](https://img.shields.io/discord/533410361328664616?label=Expresso%20Bits&logo=discord&logoColor=ffffff)
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 I'm ❤️ game development!
 
 - ⚡ Unity Expert
@@ -24,8 +26,6 @@ I'm ❤️ game development!
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat&logo=css3&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 #### Languages
 
