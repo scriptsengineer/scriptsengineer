@@ -7,9 +7,6 @@
 [![Expresso Bits](https://img.shields.io/badge/Expresso_Bits-red?&style=flat&logo=web)](https://expressobits.com.br)
 ![Discord](https://img.shields.io/discord/533410361328664616?label=Expresso%20Bits&logo=discord&logoColor=ffffff)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-<img align="right" alt="Engineer" width=250 height=200 src="https://gifimage.net/wp-content/uploads/2018/06/tf2-engineer-gif-6.gif">
 I'm ❤️ game development!
 
 - ⚡ Unity Expert
