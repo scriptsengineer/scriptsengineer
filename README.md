@@ -12,7 +12,7 @@ I'm ❤️ game development!
 - ⚡ Unity Expert
 - 👨‍💻 C# Coder
 - 🔭 I’m currently working on new game on Godot!
-- 🌱 I’m currently learning Rendering in Godot
+- 🌱 I’m currently learning Network in Godot
 
 #### Techs
 ![Unity](https://img.shields.io/badge/-Unity-020202?style=flat&logo=unity&logoColor=white)
