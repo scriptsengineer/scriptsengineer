@@ -31,10 +31,6 @@ I'm ❤️ game development!
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-![Scriptsengineer's github stats](https://github-readme-stats.vercel.app/api?username=scriptsengineer&show_icons=true&theme=dark)
-
-
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expressobits&layout=compact&theme=radical)](https://github.com/expressobits/github-readme-stats)
 
 
