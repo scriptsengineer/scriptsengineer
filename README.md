@@ -8,7 +8,6 @@
 ![Discord](https://img.shields.io/discord/533410361328664616?label=Expresso%20Bits&logo=discord&logoColor=ffffff)
 
 I'm ❤️ game development!
-
 - ⚡ Unity Expert
 - 👨‍💻 C# Coder
 - 🔭 I’m currently working on new game on Godot!
