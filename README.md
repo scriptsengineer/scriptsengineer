@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rafael-morais-correa-b1ab7a81/)
 [![AssetStore](https://img.shields.io/badge/Unity_Asset_Store-black?style=flat&logo=unity)](https://assetstore.unity.com/publishers/39910)
 ![Twitter Follow](https://img.shields.io/twitter/follow/scriptsengineer?style=flat&logo=twitter)
@@ -8,12 +8,11 @@
 ![Discord](https://img.shields.io/discord/533410361328664616?label=Expresso%20Bits&logo=discord&logoColor=ffffff)
 
 I'm ❤️ game development!
-- ⚡ Unity Expert
-- 👨‍💻 C# Coder
-- 🔭 I’m currently working on new game on Godot!
-- 🌱 I’m currently learning Network in Godot
+- ⚡ Unity Expert - 👨‍💻 C# Coder
+- 🔭 I’m currently working on new game on Godot! - 🌱 I’m currently learning Network in Godot
 
 #### Techs
+![Godot](https://img.shields.io/badge/-Godot-478cbf?style=flat&logo=godot-engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-020202?style=flat&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal-313131?style=flat&logo=unreal-engine&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -29,6 +28,7 @@ I'm ❤️ game development!
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-Sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expressobits&layout=compact&theme=radical)](https://github.com/expressobits/github-readme-stats)
 
