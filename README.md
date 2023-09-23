@@ -9,6 +9,7 @@
 
 I'm ❤️ game development!
 - ⚡ Unity Expert - 👨‍💻 C# Coder
+- 🔌 Godot Asset Creator
 - 🔭 I’m currently working on new game on Godot! - 🌱 I’m currently learning Network in Godot
 
 #### Techs
