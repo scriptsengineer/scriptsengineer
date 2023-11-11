@@ -10,7 +10,7 @@
 I'm ❤️ game development!
 - ⚡ Unity Expert - 👨‍💻 C# Coder
 - 🔌 Godot Asset Creator
-- 🔭 I’m currently working on new game on Godot! - 🌱 I’m currently learning Network in Godot
+- 🔭 I’m currently working on new game on Godot! - 🌱 I’m currently creating a game survival on Godot
 
 #### Techs
 ![Godot](https://img.shields.io/badge/-Godot-478cbf?style=flat&logo=godot-engine&logoColor=white)
