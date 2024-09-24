@@ -1,6 +1,5 @@
 ### Hi 👋
-My ![bluesky](https://github.com/user-attachments/assets/6ee391f1-fd46-41a2-99f1-8e5b2e501d57)
-Bluesky](https://bsky.app/profile/scriptsengineer.bsky.social)
+My [Bluesky](https://bsky.app/profile/scriptsengineer.bsky.social)
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rafael-morais-correa-b1ab7a81/)
 [![Godot Asset Lib](https://img.shields.io/badge/Godot_Asset_Lib-478cbf?style=flat&logo=godot-engine&logoColor=white)](https://godotengine.org/asset-library/asset?user=expressobits)
