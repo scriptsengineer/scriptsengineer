@@ -11,7 +11,7 @@ My [Bluesky](https://bsky.app/profile/scriptsengineer.bsky.social)
 I'm ❤️ game development!
 - ⚡ Unity Expert - 👨‍💻 C# Coder
 - 🔌 Godot Asset Creator
-- 🔭 I’m currently working on new game on Godot! - 🌱 I’m currently learning rendering in Godot
+- 🔭 I’m currently working on new game on Godot! - 🌱 I’m currently learning animations in Godot
 
 #### Techs
 ![Godot](https://img.shields.io/badge/-Godot-478cbf?style=flat&logo=godot-engine&logoColor=white)
